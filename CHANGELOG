@@ -1,0 +1,11 @@
+v0.4.1. Add additional passes for problematic scans
+
+v0.4. Better handling of scanned documents with multiple passes
+
+v0.3.1. Released for rubygems
+
+v0.3. Blur image to reduce noise
+
+v0.2. Choose better binarizer, ignore non-QR barcodes, override DPI
+
+v0.1. initial commit

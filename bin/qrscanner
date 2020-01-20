@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'qrscanner'
+
+source_file = ARGV.shift or raise 'Missing argument: path to image'
+puts QrScanner.decode(source_file)
